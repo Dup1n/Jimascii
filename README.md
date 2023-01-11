@@ -28,4 +28,4 @@ We added some images in the `resources` directory if you need test the project.
 
 ### Output (ASCII text)
 
-![anime girl in ASCII](./src/main/resources/ascii-result.png)
+![anime girl in ASCII](./src/main/resources/ascii-result.PNG)
